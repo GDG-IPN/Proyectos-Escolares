@@ -10,3 +10,6 @@ Este es un repo con proyectos que puedes usar para desarrollar tus propios proye
 + Dispositivos Programables.
 + Sistemas Digitales.
 + Base de datos.
++ Funtamentos de Inteligencia Artificial.
++ Teoria de la computacion.
+
